@@ -14,19 +14,19 @@
 ## 모델 학습 결과 내용 정리 입니다.
 
 ### 예측 정확도
-<img src="Mnist_CNN/train_results/acc_cruve.png">
+<img src="Data-Ai-Colab/Mnist_CNN/train_results/acc_cruve.png">
 
 ### 혼동 행렬
-<img src="Mnist_CNN/train_results/confusion_matrix.png">
+<img src="Data-Ai-Colab/Mnist_CNN/train_results/confusion_matrix.png">
 
 ### 손실 함수 곡선 그래프
-<img src="Mnist_CNN/train_results/loss_curve.png">
+<img src="Data-Ai-Colab/Mnist_CNN/train_results/loss_curve.png">
 
 ### 예측 실패 결과(오분류 사례)
-<img src="Mnist_CNN/train_results/misclassified.png">
+<img src="Data-Ai-Colab/Mnist_CNN/train_results/misclassified.png">
 
 ### 러닝 로그
-<img src="Mnist_CNN/train_results/experiments.csv">
+<img src="Data-Ai-Colab/Mnist_CNN/train_results/experiments.csv">
 ---
 
 ## 데모 결과 내용 정리 입니다.
