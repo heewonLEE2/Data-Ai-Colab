@@ -14,16 +14,16 @@
 ## 모델 학습 결과 내용 정리 입니다.
 
 ### 예측 정확도
-![acc](./train_results/acc_curve.png)
+<img src="./train_results/acc_curve.png" alt="acc" style="width: 500px;">
 
 ### 혼동 행렬
-![cm](./train_results/confusion_matrix.png)
+<img src="./train_results/confusion_matrix.png" alt="cm" style="width: 500px;">
 
 ### 손실 곡선
-![loss](./train_results/loss_curve.png)
+<img src="./train_results/loss_curve.png" alt="loss" style="width: 500px;">
 
 ### 오분류 사례
-![mis](./train_results/misclassified.png)
+<img src="./train_results/misclassified.png" alt="mis" style="width: 500px;">
 
 ### 러닝 로그
 ![running](./train_results/experiments.csv)
@@ -33,7 +33,7 @@
 ## 데모 결과 내용 정리 입니다.
 
 ### 데모 결과 그리드
-![grid](./demo_results/batch_grid.png)
+<img src="./demo_results/batch_grid.png" alt="grid" style="width: 500px;">
 
 ### 예측 csv 정리
 ![grid](demo_results/batch_preds.csv)
