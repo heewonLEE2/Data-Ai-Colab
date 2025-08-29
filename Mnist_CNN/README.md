@@ -26,7 +26,7 @@
 <img src="./train_results/misclassified.png" alt="mis" style="width: 500px;">
 
 ### 러닝 로그
-![running](./train_results/experiments.csv)
+<a href="https://github.com/heewonLEE2/Data-Ai-Colab/edit/main/Mnist_CNN/train_results/experiments.csv" >러닝 csv로 이동</a>
 
 ---
 
@@ -36,6 +36,6 @@
 <img src="./demo_results/batch_grid.png" alt="grid" style="width: 500px;">
 
 ### 예측 csv 정리
-![grid](demo_results/batch_preds.csv)
+<img src="./demo_results/batch_preds_table.png" alt="grid" style="width: 500px;">
 
 ---
