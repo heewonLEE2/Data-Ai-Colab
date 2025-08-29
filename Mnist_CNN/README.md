@@ -26,16 +26,16 @@
 <img src="./train_results/misclassified.png" alt="mis" style="width: 500px;">
 
 ### 러닝 로그
-<a href="https://github.com/heewonLEE2/Data-Ai-Colab/edit/main/Mnist_CNN/train_results/experiments.csv" >러닝 csv로 이동</a>
+<a href="https://github.com/heewonLEE2/Data-Ai-Colab/blob/main/Mnist_CNN/train_results/experiments.csv" >러닝 csv로 이동</a>
 
 ---
 
 ## 데모 결과 내용 정리 입니다.
 
 ### 데모 결과 그리드
-<img src="./demo_results/batch_grid.png" alt="grid" style="width: 500px;">
+<img src="./demo_results/batch_grid.png" alt="grid" style="width: 700px;">
 
 ### 예측 csv 정리
-<img src="./demo_results/batch_preds_table.png" alt="grid" style="width: 500px;">
+<img src="./demo_results/batch_preds_table.png" alt="grid" style="width: 700px;">
 
 ---
