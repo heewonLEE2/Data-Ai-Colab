@@ -1,0 +1,5 @@
+path,pred,prob
+demo_inputs/my_image.png,5,0.9999947547912598
+demo_inputs/my_image2.png,8,0.99992835521698
+demo_inputs/my_image3.png,9,0.9999547004699707
+demo_inputs/my_image4.png,4,0.9991607666015625
