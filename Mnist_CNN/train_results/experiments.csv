@@ -1,0 +1,2 @@
+timestamp,seed,epochs,batch_size,lr,weight_decay,best_val_acc,test_acc
+1756444330,42,10,128,0.001,0.0001,0.9921666666666666,0.9947
