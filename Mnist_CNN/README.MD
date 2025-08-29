@@ -14,19 +14,19 @@
 ## 모델 학습 결과 내용 정리 입니다.
 
 ### 예측 정확도
-<img src="/train_results/acc_cruve.png">
+<img src="Mnist_CNN/train_results/acc_cruve.png">
 
 ### 혼동 행렬
-<img src="/train_results/confusion_matrix.png">
+<img src="Mnist_CNN/train_results/confusion_matrix.png">
 
 ### 손실 함수 곡선 그래프
-<img src="/train_results/loss_curve.png">
+<img src="Mnist_CNN/train_results/loss_curve.png">
 
 ### 예측 실패 결과(오분류 사례)
-<img src="/train_results/misclassified.png">
+<img src="Mnist_CNN/train_results/misclassified.png">
 
 ### 러닝 로그
-<img src="/train_results/experiments.csv">
+<img src="Mnist_CNN/train_results/experiments.csv">
 ---
 
 ## 데모 결과 내용 정리 입니다.
@@ -38,21 +38,3 @@
 <img src="/demo_results/batch_preds.csv">
 
 ---
-
-## 저장소 구조
-mnist-study/
-├─ notebooks/
-│ ├─ 01_train.ipynb # 학습 노트북 – 출력 제거
-│ └─ 02_inference_demo.ipynb # 추론 데모 – 마지막 결과 셀만 유지
-│
-├─ train_results/
-│ ├─ acc_curve.png
-│ ├─ loss_curve.png
-│ ├─ confusion_matrix.png
-│ ├─ misclassified.png
-│ ├─ experiments.csv
-├─ demo_results/
-│ ├─ batch_preds.csv
-│ └─ batch_grid.png
-└─ README.md
-
