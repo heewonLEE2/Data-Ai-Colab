@@ -14,16 +14,16 @@
 ## 모델 학습 결과 내용 정리 입니다.
 
 ### 예측 정확도
-<img src="Data-Ai-Colab/Mnist_CNN/train_results/acc_cruve.png">
+![acc](Mnist_CNN/train_results/acc_curve.png)
 
 ### 혼동 행렬
-<img src="Data-Ai-Colab/Mnist_CNN/train_results/confusion_matrix.png">
+![cm](Mnist_CNN/train_results/confusion_matrix.png)
 
-### 손실 함수 곡선 그래프
-<img src="Data-Ai-Colab/Mnist_CNN/train_results/loss_curve.png">
+### 손실 곡선
+![loss](Mnist_CNN/train_results/loss_curve.png)
 
-### 예측 실패 결과(오분류 사례)
-<img src="Data-Ai-Colab/Mnist_CNN/train_results/misclassified.png">
+### 오분류 사례
+![mis](Mnist_CNN/train_results/misclassified.png)
 
 ### 러닝 로그
 <img src="Data-Ai-Colab/Mnist_CNN/train_results/experiments.csv">
@@ -31,10 +31,10 @@
 
 ## 데모 결과 내용 정리 입니다.
 
-### 그림판으로 직접 그린 그림 맞추기
-<img src="/demo_results/batch_gird.png">
+### 데모 결과 그리드
+![grid](demo_results/batch_grid.png)
 
 ### 예측 csv 정리
-<img src="/demo_results/batch_preds.csv">
+![grid](demo_results/batch_preds.csv)
 
 ---
